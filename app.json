@@ -4,6 +4,7 @@
     "slug": "Ryde",
     "version": "1.0.0",
     "orientation": "portrait",
+    "owner": "aniketdas2003",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
@@ -42,9 +43,6 @@
     "extra": {
       "router": {
         "origin": "https://uber.dev/"
-      },
-      "eas": {
-        "projectId": "a827d33a-2380-4c3d-888c-31fe53d1a290"
       }
     }
   }
